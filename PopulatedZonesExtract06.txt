@@ -1,0 +1,298 @@
+cazicthule,Accursed Temple of CazicThule
+akanon,Ak'Anon
+anguish,Anguish: the Fallen Palace
+barindu,Barindu: Hanging Gardens
+bothunder,Bastion of Thunder
+befallen,Befallen
+blackburrow,Blackburrow
+butcher,Butcherblock Mountains
+cabeast,Cabilis East
+cabwest,Cabilis West
+dranikcatacombsa,Catacombs of Dranik
+dranikcatacombsb,Catacombs of Dranik
+dranikcatacombsc,Catacombs of Dranik
+westkorlachb,Caverns of the Lost: Find Fibblebrap 2 Lost Caverns
+westkorlacha,Chambers of Xill: The Rage of Kelliad
+chardok,Chardok
+chardokb,Chardok: The Halls of Betrayal
+cobaltscar,Cobaltscar
+corathusb,Corathus Lair: Find Fibblebrap 1 The mines
+crescent,Crescent Reach
+crushbone,Crushbone
+cauldron,Dagnor's Cauldron
+gukh,Deepest Guk: Accursed Sanctuary
+gukc,Deepest Guk: Ancient Aqueducts
+guka,Deepest Guk: Cauldron of Lost Souls
+gukf,Deepest Guk: Chapel of the Witnesses
+guke,Deepest Guk: The Curse Reborn
+gukd,Deepest Guk: The Mushroom Grove
+gukg,Deepest Guk: The Root Garden
+necropolis,Dragon Necropolis
+dranikhollowsa,Dranik's Hollows
+dranikhollowsb,Dranik's Hollows
+dranikhollowsc,Dranik's Hollows
+draniksscar,Dranik's Scar
+dreadspire,Dreadspire Keep: Demi-Plane of Blood
+potactics,Drunder: the Fortress of Zek
+dulak,Dulak's Harbor
+ecommons,East Commonlands
+freporte,East Freeport
+eastkarana,Eastern Plains of Karana
+eastwastes,Eastern Wastes
+erudsxing,Erud's Crossing
+erudnext,Erudin
+everfrost,Everfrost Peaks
+ferubi,Ferubi: Forgotten Temple of Taelosia
+firiona,Firiona Vie
+freeportsewers,Freeport Sewers
+frontiermtns,Frontier Mountains
+freeportarena,GM_Arena
+beholder,Gorge of King Xorbb
+griegsend,Grieg's End
+grimling,Grimling Forest
+grobb,Grobb
+guildhall,Guild Hall
+halas,Halas
+harbingers,Harbinger's Spire
+hatesfury,Hate's Fury
+highkeep,High Keep
+highpass,Highpass Hold
+highpasshold,Highpass Hold
+hollowshade,Hollowshade Moor
+thurgadinb,Icewell Keep
+ikkinz,Ikkinz: Chambers of Transcendence
+illsalina,Illsalin Marketplace: The Fall of Illsalin
+inktuta,Inktu'Ta: the Unmasked Chapel
+innothule,Innothule Swamp
+kael,Kael Drakkel
+kaesora,Kaesora
+karnor,Karnor's Castle
+katta,Katta Castellum
+kedge,Kedge Keep
+kerraridge,Kerra Isle
+kithicor,Kithicor Forest
+kodtaz,Kod'Taz: Broken Trial Grounds
+kurn,Kurn's Tower
+westkorlachc,Lair of the Korlach: Discovering the Secret
+lakeofillomen,Lake of Ill Omen
+lakerathe,Lake Rathetear
+delvea,Lavaspinner's Lair: Grounding the Drakes
+mseru,Marus Seru
+mirb,Miragul's Menagerie: Frozen Nightmare
+mirj,Miragul's Menagerie: Grand Library
+mirg,Miragul's Menagerie: Heart of the Menagerie
+mird,Miragul's Menagerie: Hushed Banquet
+mira,Miragul's Menagerie: Silent Gallery
+mmch,Mistmoore's Catacombs: Aisles of Blood
+mmcg,Mistmoore's Catacombs: Cesspits of Putrescence
+mmcd,Mistmoore's Catacombs: Chambers of Eternal Affliction
+mmcb,Mistmoore's Catacombs: Dreary Grotto
+mmca,Mistmoore's Catacombs: Forlorn Caverns
+mmci,Mistmoore's Catacombs: Halls of Sanguinary Rites
+mmcj,Mistmoore's Catacombs: Infernal Sanctuary
+mmcf,Mistmoore's Catacombs: Scion Lair of Fury
+mmce,Mistmoore's Catacombs: Sepulcher of the Damned
+mmcc,Mistmoore's Catacombs: Struggles within the Progeny
+misty,Misty Thicket
+letalis,Mons Letalis
+chambersa,Muramite Proving Grounds
+chambersb,Muramite Proving Grounds
+chambersc,Muramite Proving Grounds
+chambersd,Muramite Proving Grounds
+chamberse,Muramite Proving Grounds
+chambersf,Muramite Proving Grounds
+provinggrounds,Muramite Proving Grounds
+soldungb,Nagafen's Lair
+najena,Najena
+natimbi,Natimbi: the Broken Shores
+nedaria,Nedaria's Landing
+neriakc,Neriak - 3rd Gate
+neriakb,Neriak - Commons
+neriaka,Neriak - Foreign Quarter
+netherbian,Netherbian Lair
+nexus,Nexus
+causeway,Nobles' Causeway
+northro,North Desert of Ro
+freportn,North Freeport
+kaladimb,North Kaladim
+qeynos2,North Qeynos
+nro,Northern Desert of Ro
+felwithea,Northern Felwithe
+oasis,Oasis of Marr
+oot,Ocean of Tears
+oggok,Oggok
+paineel,Paineel
+hateplane,Plane of Hate
+qinimi,Qinimi: Court of Nihilia
+drachnidhivec,Queen Sendaii`s Lair: Sendaii the Hive Queen
+qvic,Qvic: Prayer Grounds of Calling
+riftseekers,Riftseekers' Sanctum
+rivervale,Rivervale
+riwwi,Riwwi: Coliseum of Games
+sseru,Sanctus Seru
+draniksewersa,Sewers of Dranik
+draniksewersb,Sewers of Dranik
+draniksewersc,Sewers of Dranik
+sncrematory,Sewers of Nihilia: Emanating Cre
+snlair,Sewers of Nihilia: Lair of Trapp
+snpool,Sewers of Nihilia: Pool of Sludg
+snplant,Sewers of Nihilia: Purifying Pla
+shadeweaver,Shadeweaver's Thicket
+shadowhaven,Shadow Haven
+shadowrest,Shadowrest
+shadowspine,Shadowspine: Into the Shadows
+sirens,Siren's Grotto
+skyshrine,Skyshrine
+eastkorlacha,Snarlstone Dens: A Plea for Help
+soldunga,Solusek's Eye
+southro,South Desert of Ro
+kaladima,South Kaladim
+qeynos,South Qeynos
+sro,Southern Desert of Ro
+felwitheb,Southern Felwithe
+corathusa,Sporali Caverns: Antraygus: Sporali King
+ssratemple,Ssraeshza Temple
+steamfont,Steamfont Mountains
+stillmoonb,Stillmoon Ascent: Kessdona's Perch
+stillmoona,Stillmoon Temple: Sickness of the Spirit
+westkorlach,Stoneroot Falls: The City of Xill (A Rogues Trust)
+tacvi,Tacvi: The Broken Temple
+takg,Takish-Hiz: Balancing Chamber
+take,Takish-Hiz: River of Recollection
+takd,Takish-Hiz: Royal Observatory
+takb,Takish-Hiz: Shifting Tower
+taka,Takish-Hiz: Sunken Library
+takc,Takish-Hiz: Within the Compact
+freeporttemple,Temple of Marr
+illsalinb,Temple of the Korlach: The Council of Nine
+abysmal,The Abysmal Sea
+acrylia,The Acrylia Caverns
+akheva,The Akheva Ruins
+arena,The Arena
+bazaar,The Bazaar
+bloodfields,The Bloodfields
+burningwood,The Burning Wood
+mistmoore,The Castle of Mistmoore
+soldungc,The Caverns of Exile
+guktop,The City of Guk
+citymist,The City of Mist
+sharvahl,The City of Shar Vahl
+thurgadina,The City of Thurgadin
+drachnidhiveb,The Cocoons: Rescue Cicero!
+dalnir,The Crypt of Dalnir
+codecay,The Crypt of Decay
+nadox,The Crypt of Nadox
+crystal,The Crystal Caverns
+dawnshroud,The Dawnshroud Peaks
+thedeep,The Deep
+dreadlands,The Dreadlands
+gukb,The Drowning Crypt
+echo,The Echo Caverns
+emeraldjungle,The Emerald Jungle
+erudnint,The Erudin Palace
+unrest,The Estate of Unrest
+feerrott,The Feerrott
+fieldofbone,The Field of Bone
+fungusgrove,The Fungus Grove
+greatdivide,The Great Divide
+gfaydark,The Greater Faydark
+thegrey,The Grey
+gunthak,The Gulf of Gunthak
+hohonora,The Halls of Honor
+drachnidhivea,The Hatchery: Find Fibblebrap 3 The Hive
+drachnidhive,The Hive: Freeing an Elder
+hole,The Hole
+charasis,The Howling Stones
+iceclad,The Iceclad Ocean
+innothuleb,The Innothule Swamp
+jaggedpine,The Jaggedpine Forest
+nightmareb,The Lair of Terris Thule
+paw,The Lair of the Splitpaw
+lavastorm,The Lavastorm Mountains
+lfaydark,The Lesser Faydark
+runnyeye,The Liberated Citadel of Runnyeye
+maiden,The Maiden's Eye
+tutorialb,The Mines of Gloomingdeep
+nurga,The Mines of Nurga
+illsalinc,The Nargilor Pits: Deserting the Ranks
+nektulos,The Nektulos Forest
+thenest,The Nest: Lair of the Blackwing Drakes
+northkarana,The Northern Plains of Karana
+overthere,The Overthere
+paludal,The Paludal Caverns
+permafrost,The Permafrost Caverns
+poair,The Plane of Air
+podisease,The Plane of Disease
+poeartha,The Plane of Earth
+poearthb,The Plane of Earth
+fearplane,The Plane of Fear
+pofire,The Plane of Fire
+growthplane,The Plane of Growth
+hateplaneb,The Plane of Hate
+poinnovation,The Plane of Innovation
+pojustice,The Plane of Justice
+poknowledge,The Plane of Knowledge
+mischiefplane,The Plane of Mischief
+ponightmare,The Plane of Nightmares
+airplane,The Plane of Sky
+postorms,The Plane of Storms
+potimea,The Plane of Time
+potimeb,The Plane of Time
+potranquility,The Plane of Tranquility
+povalor,The Plane of Valor
+powater,The Plane of Water
+qcat,The Qeynos Aqueduct System
+qeytoqrg,The Qeynos Hills
+rathemtn,The Rathe Mountains
+dranik,The Ruined City of Dranik
+gukbottom,The Ruins of Old Guk
+sebilis,The Ruins of Sebilis
+ruji,The Rujarkian Hills: Arena of Chance
+rujj,The Rujarkian Hills: Barracks of War
+ruja,The Rujarkian Hills: Bloodied Quarries
+rujf,The Rujarkian Hills: Fortified Lair of the Taskmasters
+rujg,The Rujarkian Hills: Hidden Vale of Deceit
+rujd,The Rujarkian Hills: Prison Break
+scarlet,The Scarlet Desert
+skyfire,The Skyfire Mountains
+sleeper,The Sleeper's Tomb
+southkarana,The Southern Plains of Karana
+mirc,The Spider Den
+stonebrunt,The Stonebrunt Mountains
+qrg,The Surefall Glade
+swampofnohope,The Swamp of No Hope
+droga,The Temple of Droga
+hohonorb,The Temple of Marr
+soltemple,The Temple of Solusek Ro
+templeveeshan,The Temple of Veeshan
+tenebrous,The Tenebrous Mountains
+torgiran,The Torgiran Mines
+frozenshadow,The Tower of Frozen Shadow
+solrotower,The Tower of Solusek Ro
+twilight,The Twilight Sea
+umbral,The Umbral Plains
+eastkorlach,The Undershore: Trailing Longshadow
+thevoida,The Void
+wakening,The Wakening Land
+warrens,The Warrens
+warslikswood,The Warsliks Woods
+qey2hh1,The Western Plains of Karana
+westwastes,The Western Wastes
+thundercrest,Thundercrest Isles
+timorous,Timorous Deep
+tipt,Tipt: Treacherous Crags
+delveb,Tirranun's Delve: Storming the Goblin Palace
+potorment,Torment: the Plane of Pain
+tox,Toxxulia Forest
+trakanon,Trakanon's Teeth
+txevu,Txevu: Lair of the Elite
+uqua,Uqua: the Ocean God Chantry
+veeshan,Veeshan's Peak
+veksar,Veksar
+velketor,Velketor's Labyrinth
+vexthal,Vex Thal
+vxed,Vxed: the Crumbling Caverns
+wallofslaughter,Wall of Slaughter
+commons,West Commonlands
+freportw,West Freeport
+yxtta,Yxtta: Pulpit of Exiles
